@@ -1,0 +1,30 @@
+/*body {
+  margin: 0;
+  padding: 0;
+  background-image: url('img/a0ae447d7d69c5e0abdf7b29dc7aada0.jpg') no-repeat;
+  height: 100vh;
+  background-size: cover;
+  position: relative;
+}*/
+
+body  {
+  background-image: url("img/1.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+}
+
+
+
+
+/* Animation */
+#car {
+  content: url("img/car2.png");
+  position: absolute;
+  top: 54%;
+  width: 20%;
+
+}
